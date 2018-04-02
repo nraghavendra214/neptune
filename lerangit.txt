@@ -3,3 +3,4 @@ git bash used to set work space  through command prompt
 workspace nothing but repostory
 in git everything is work space
 in git there is no concept of server and client
+setting up newbranches
