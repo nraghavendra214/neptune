@@ -1,0 +1,1 @@
+{"virtualbox":{"/opt/testsyncvm":{"guestpath":"/opt/testsyncvm","hostpath":"D:/vagrant_vms/webprovisoning/mytestsyncdir","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"D:/vagrant_vms/webprovisoning","disabled":false,"__vagrantfile":true}}}
