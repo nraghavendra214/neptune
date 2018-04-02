@@ -1,1 +1,2 @@
 this is first learning day for git
+git bash used to set work space  through command prompt
