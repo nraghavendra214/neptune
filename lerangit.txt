@@ -1,2 +1,3 @@
-this is first learning day for git
+git repos created through command prompt
 git bash used to set work space  through command prompt
+global parametets ayre used for some configuaration
